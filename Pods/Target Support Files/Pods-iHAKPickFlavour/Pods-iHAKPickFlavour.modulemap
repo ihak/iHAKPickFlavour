@@ -1,0 +1,6 @@
+module Pods_iHAKPickFlavour {
+  umbrella header "Pods-iHAKPickFlavour-umbrella.h"
+
+  export *
+  module * { export * }
+}
